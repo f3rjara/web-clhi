@@ -62,3 +62,27 @@
 .icon-web:before {
   content: "\68";
 }
+.icon-chasis:before {
+  content: "\69";
+}
+.icon-monitor:before {
+  content: "\6a";
+}
+.icon-mouse:before {
+  content: "\6c";
+}
+.icon-impresora:before {
+  content: "\6d";
+}
+.icon-teclado:before {
+  content: "\6e";
+}
+.icon-sistema:before {
+  content: "\6f";
+}
+.icon-apps:before {
+  content: "\6b";
+}
+.icon-programa:before {
+  content: "\70";
+}
