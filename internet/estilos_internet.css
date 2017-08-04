@@ -1,0 +1,9 @@
+.hover_menu :hover
+{
+	background-color:beige;
+	border-radius: 10px;
+	color: black;
+	font-size: 18px;
+	font-weight: bold;
+	transform: translateY(10px);	
+}
